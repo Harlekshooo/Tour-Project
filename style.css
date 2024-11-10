@@ -1,0 +1,57 @@
+
+
+.major {
+    padding-top: 90px;
+    letter-spacing:  1.5rem;
+    font-size:2rem;
+    font-weight:700;
+}
+
+.min{
+    letter-spacing:  1.5rem;
+    line-height:2.5rem;
+    font-size:1.5rem;
+}
+
+.hero-section{
+    background-color:#1bad69;
+}
+
+.world-container{
+    background-color:#1bad69;
+}
+
+.world{
+    padding-top:150px;
+}
+
+.world-item{
+    width:30%;
+}
+
+.people{
+    background-color:#1bad69;
+}
+
+.people-main{
+    padding-bottom:10rem;
+}
+
+.people-name{
+    color:#212529;
+}
+
+.footer-part{
+    
+}
+
+@media screen and (min-width:425px) {
+    
+    .world-item{
+        width:100%;
+    }
+}
+
+/* .col-4{
+    width:23%;
+} */
